@@ -1,0 +1,40 @@
+	FDT
+By convention, variable names should start with a lowercase letter.
+The assignment operator = does not denote mathematical equality.
+You cannot change the value of a variable that is defned as final.
+Use the Scanner class to read keyboard input in a console window.
+String positions are counted starting with 0.
+Use the substring method to extract a part of a string.
+
+	Loops
+A loop executes instructions repeatedly while a condition is true.
+The for loop is used when a value runs from a starting point to an ending point with a constant increment or decrement.
+You can use a Boolean variable to control a loop.
+To compute an average, keep a total and a count of all values.
+If your goal is to fnd a match, exit the loop when the match is found.
+
+	Decisions
+The if statement allows a program to carry out different actions depending on the situation.
+Use relational operators (< <= > >= == !=) to compare numbers.
+Do not use the == operator to compare strings. Use the equals method instead.
+Multiple if statements can be combined to evaluate complex decisions.
+It is a good idea to design test cases before implementing a program.
+To invert a condition, use the ! (not) operator.
+
+	Arrays
+An array collects a sequence of values of the same type.
+Use the expression array.length to fnd the number of elements in an array.
+An array index must be at least zero and less than the size of the array.
+You can use the enhanced for loop to visit all elements of an array.
+An array list stores a sequence of values whose size can change.
+Use the get and set methods to access an array list element
+at a given index.
+
+	Methods
+A method is a named sequence of instructions.
+Arguments are supplied when a method is called.
+The return value is the result that the method computes.
+Use a return type of void to indicate that a method does not return a value.
+A method may require simpler methods to carry out its work.
+A recursive computation solves a problem by using the solution of the same
+problem with simpler inputs.

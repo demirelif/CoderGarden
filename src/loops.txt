@@ -1,0 +1,5 @@
+A loop executes instructions repeatedly while a condition is true.
+The for loop is used when a value runs from a starting point to an ending point with a constant increment or decrement.
+You can use a Boolean variable to control a loop.
+To compute an average, keep a total and a count of all values.
+If your goal is to fnd a match, exit the loop when the match is found.

@@ -1,0 +1,7 @@
+A method is a named sequence of instructions.
+Arguments are supplied when a method is called.
+The return value is the result that the method computes.
+Use a return type of void to indicate that a method does not return a value.
+A method may require simpler methods to carry out its work.
+A recursive computation solves a problem by using the solution of the same
+problem with simpler inputs.

@@ -1,0 +1,6 @@
+By convention, variable names should start with a lowercase letter.
+The assignment operator = does not denote mathematical equality.
+You cannot change the value of a variable that is defned as final.
+Use the Scanner class to read keyboard input in a console window.
+String positions are counted starting with 0.
+Use the substring method to extract a part of a string.

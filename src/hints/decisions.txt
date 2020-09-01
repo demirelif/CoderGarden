@@ -1,0 +1,6 @@
+The if statement allows a program to carry out different actions depending on the situation.
+Use relational operators (< <= > >= == !=) to compare numbers.
+Do not use the == operator to compare strings. Use the equals method instead.
+Multiple if statements can be combined to evaluate complex decisions.
+It is a good idea to design test cases before implementing a program.
+To invert a condition, use the ! (not) operator.
